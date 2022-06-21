@@ -1,0 +1,3 @@
+ - basic chrome extension to save the information from a browser to be accessed later from local storage
+ - can save current tab URL by hitting the "Save Tab" button
+ - clears the data of the local storage when "Delete All" button double clicked
